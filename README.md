@@ -1,4 +1,4 @@
-Manisha_pubsub_synopsis
+## Manisha_pubsub_synopsis : 
 
 Google Cloud Pub/Sub is a fully managed, asynchronous messaging service provided by Google Cloud Platform. It enables reliable communication between distributed applications using an event-driven architecture. Pub/Sub allows systems to exchange messages in real time without requiring direct interaction between message producers and consumers.
 
